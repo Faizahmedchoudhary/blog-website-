@@ -1,0 +1,66 @@
+/* header pages */
+li.nav-item a {
+    color: white !IMPORTANT;
+    font-size: 1.2rem !important;
+}
+
+.header-logo{
+   width: 350px;
+   
+}
+
+img {
+    width: 100px !IMPORTANT;
+}
+
+ul.dropdown-menu.show li a {
+    color: black !IMPORTANT;
+}
+ul.dropdown-menu.show {
+    background: transparent !IMPORTANT;
+}
+
+/* blogs home view page */
+.col {
+    display: grid;
+    grid-template-columns: 4fr 4fr 4fr;
+}
+
+
+/* about divya page */
+
+.page-breadcrumbs{
+    /* background-color: #F6F6F6; */
+    margin-top: 3rem;
+    padding: 3rem;
+    
+}
+.page-breadcrumbs h1{
+    font-size: 50px;
+}
+.page-breadcrumbs p{
+    text-align: center  !important;
+}
+
+.page-content-section{
+    display: grid;
+    grid-template-columns: 8fr 4fr;
+}
+
+
+
+.page-title {
+    background: #F6F6F6 !important;
+    padding: 2rem;
+    margin-top: 3rem;
+
+}
+
+
+/* single post */
+.view-post-category{
+    border: 2px solid black;
+    text-align: center;
+    width: 10vw;
+    padding: 0.5rem;
+}
